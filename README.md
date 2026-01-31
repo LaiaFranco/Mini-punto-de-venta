@@ -8,6 +8,7 @@ Proyecto desarrollado como Trabajo Práctico de Programación, que simula un sis
 El Mini Punto de Venta permite administrar un comercio de manera simple, separando funciones administrativas y operativas. El sistema cuenta con un módulo de administrador para la gestión general y un módulo de venta que simula el funcionamiento de un cajero.
 
 🎯 Objetivo
+
 Desarrollar un sistema que permita:
 
 Administrar clientes y productos
@@ -19,6 +20,7 @@ Generar tickets de compra
 Obtener reportes de ventas
 
 🎯 Funcionalidades
+
 🔐 Administrador
 
 Crear, modificar y eliminar productos
