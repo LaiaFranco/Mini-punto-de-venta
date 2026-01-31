@@ -1,0 +1,442 @@
+# depslib dependency file v1.0
+1761756960 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\main.cpp
+	<iostream>
+	<string>
+	"Menu.h"
+	"ClienteManager.h"
+	"UsuarioManager.h"
+
+1761580901 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\fecha.cpp
+	<ctime>
+	"Fecha.h"
+
+1761579937 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\fecha.h
+	<string>
+
+1761696376 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\persona.cpp
+	"Persona.h"
+
+1761925854 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\persona.h
+	<string>
+	<cstring>
+	"Fecha.h"
+	"Validador.h"
+
+1761580282 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1761580281 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\cliente.h
+	"Persona.h"
+	<string>
+
+1761695301 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuario.cpp
+	"Usuario.h"
+
+1761694994 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuario.h
+	"Persona.h"
+	"Validador.h"
+	<string>
+	<cstring>
+
+1761343666 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\categoria.cpp
+	"Categoria.h"
+	<cstring>
+	<iostream>
+
+1761343856 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\categoria.h
+	<string>
+
+1761179787 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\producto.cpp
+	"Producto.h"
+	<cstring>
+
+1761179787 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\producto.h
+	<string>
+
+1761155099 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\proveedor.cpp
+	"Proveedor.h"
+	<cstring>
+
+1761148815 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\proveedor.h
+	<string>
+
+1761175746 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\venta.cpp
+	"Venta.h"
+	<cstring>
+	<iostream>
+
+1761174783 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\venta.h
+	<string>
+	"Fecha.h"
+
+1761184513 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\detalleventa.cpp
+	"DetalleVenta.h"
+	<cstring>
+
+1761184499 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\detalleventa.h
+	<string>
+
+1761190002 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\descuento.cpp
+	"Descuento.h"
+	<cstring>
+
+1761189991 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\descuento.h
+	<string>
+	<iostream>
+	"Fecha.h"
+
+1761785944 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\clientearchivo.cpp
+	"ClienteArchivo.h"
+
+1761785944 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1761748955 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuarioarchivo.cpp
+	"UsuarioArchivo.h"
+
+1761704076 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuarioarchivo.h
+	<string>
+	"Usuario.h"
+	"Validador.h"
+
+1761275771 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\productoarchivo.cpp
+	"ProductoArchivo.h"
+
+1761275574 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\productoarchivo.h
+	"Producto.h"
+
+1761343688 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\categoriaarchivo.cpp
+	"CategoriaArchivo.h"
+
+1761343545 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\categoriaarchivo.h
+	"Categoria.h"
+
+1761345163 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\descuentoarchivo.cpp
+	"DescuentoArchivo.h"
+
+1761345029 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\descuentoarchivo.h
+	"Descuento.h"
+
+1761346608 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+
+1761346685 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\proveedorarchivo.h
+	"Proveedor.h"
+
+1761347445 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\ventaarchivo.cpp
+	"VentaArchivo.h"
+
+1761920987 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\ventaarchivo.h
+	"Venta.h"
+
+1761361600 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\detallevenarchivo.cpp
+	"DetalleVenArchivo.h"
+
+1761361539 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\detallevenarchivo.h
+	"DetalleVenta.h"
+
+1761789903 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\clientemanager.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"Validador.h"
+
+1761789814 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\clientemanager.cpp
+	"ClienteManager.h"
+	<cstring>
+	<iostream>
+	<limits>
+
+1762471596 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuariomanager.h
+	"UsuarioArchivo.h"
+	"Usuario.h"
+	"Fecha.h"
+	"Validador.h"
+	<string>
+
+1762470583 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1761926822 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\menu.h
+	<string>
+	"UsuarioManager.h"
+	"ClienteManager.h"
+	"Validador.h"
+	"SubMenu.h"
+
+1761926822 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\validador.h
+	<string>
+
+1761749513 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\validador.cpp
+	"Validador.h"
+
+1761926851 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\usuariomanager.cpp
+	"UsuarioManager.h"
+	<iostream>
+
+1761930966 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\submenu.h
+
+1761925850 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\minipuntoventa\submenu.cpp
+	"SubMenu.h"
+	<iostream>
+
+1762613478 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoria.cpp
+	"Categoria.h"
+	<cstring>
+	<iostream>
+
+1762529417 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoria.h
+	<string>
+
+1762909907 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoriaarchivo.cpp
+	"CategoriaArchivo.h"
+
+1767886459 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoriaarchivo.h
+	"Categoria.h"
+
+1761580282 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1762907185 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\cliente.h
+	"Persona.h"
+	<string>
+
+1762827585 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\persona.h
+	<string>
+	<cstring>
+	"Fecha.h"
+	"Validador.h"
+
+1761579937 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\fecha.h
+	<string>
+
+1762820216 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\validador.h
+	<string>
+
+1761785944 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\clientearchivo.cpp
+	"ClienteArchivo.h"
+
+1761785944 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1762908959 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\clientemanager.cpp
+	"ClienteManager.h"
+	<cstring>
+	<iostream>
+	<limits>
+
+1762908221 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\clientemanager.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"Validador.h"
+
+1767886459 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\descuento.cpp
+	"Descuento.h"
+	<cstring>
+
+1767886459 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\descuento.h
+	<string>
+	<iostream>
+	"Fecha.h"
+
+1761345163 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\descuentoarchivo.cpp
+	"DescuentoArchivo.h"
+
+1761345029 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\descuentoarchivo.h
+	"Descuento.h"
+
+1762911948 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\detallevenarchivo.cpp
+	"DetalleVenArchivo.h"
+
+1761361539 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\detallevenarchivo.h
+	"DetalleVenta.h"
+
+1761184499 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\detalleventa.h
+	<string>
+
+1767886458 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\detalleventa.cpp
+	"DetalleVenta.h"
+	<cstring>
+
+1767886459 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\fecha.cpp
+	<ctime>
+	"Fecha.h"
+
+1761756960 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\main.cpp
+	<iostream>
+	<string>
+	"Menu.h"
+	"ClienteManager.h"
+	"UsuarioManager.h"
+
+1767886457 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\menu.h
+	<string>
+	"UsuarioManager.h"
+	"ClienteManager.h"
+	"CategoriaManager.h"
+	"ProductoManager.h"
+	"ProveedorManager.h"
+	"Validador.h"
+	"SubMenu.h"
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"UsuarioArchivo.h"
+
+1767886454 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuariomanager.h
+	"UsuarioArchivo.h"
+	"Usuario.h"
+	"Fecha.h"
+	"Validador.h"
+	<string>
+
+1762484115 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuarioarchivo.h
+	<string>
+	<sstream>
+	"Usuario.h"
+	"Validador.h"
+
+1762483405 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuario.h
+	"Persona.h"
+	"Validador.h"
+	<string>
+	<cstring>
+
+1767886455 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\submenu.h
+
+1767886460 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1762827607 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\persona.cpp
+	"Persona.h"
+
+1762818778 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\producto.cpp
+	"Producto.h"
+	<cstring>
+
+1762818778 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\producto.h
+	<string>
+
+1767886459 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\productoarchivo.cpp
+	"ProductoArchivo.h"
+
+1762820209 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1762658941 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedor.cpp
+	"Proveedor.h"
+	<cstring>
+
+1761148815 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedor.h
+	<string>
+
+1762658479 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+
+1761346685 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedorarchivo.h
+	"Proveedor.h"
+
+1767886457 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\submenu.cpp
+	"SubMenu.h"
+	<iostream>
+
+1762483460 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuario.cpp
+	"Usuario.h"
+
+1767886459 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuarioarchivo.cpp
+	"UsuarioArchivo.h"
+
+1762820209 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\validador.cpp
+	"Validador.h"
+
+1767886453 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\venta.cpp
+	"Venta.h"
+	<cstring>
+	<iostream>
+
+1762899591 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\venta.h
+	<string>
+	"Fecha.h"
+
+1762911846 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\ventaarchivo.cpp
+	"VentaArchivo.h"
+
+1761920987 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\ventaarchivo.h
+	"Venta.h"
+
+1767886458 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\usuariomanager.cpp
+	"UsuarioManager.h"
+	<iostream>
+
+1762531768 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoriamanager.h
+	"Categoria.h"
+	"CategoriaArchivo.h"
+	"Validador.h"
+
+1762909890 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\categoriamanager.cpp
+	"CategoriaManager.h"
+	<iostream>
+
+1767886453 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\productomanager.h
+	<string>
+	"Producto.h"
+	"ProductoArchivo.h"
+	"ProveedorArchivo.h"
+	"ProveedorManager.h"
+	"CategoriaArchivo.h"
+	"Categoria.h"
+	"Validador.h"
+
+1767886460 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\productomanager.cpp
+	"ProductoManager.h"
+	<iostream>
+
+1767886457 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedormanager.cpp
+	"ProveedorManager.h"
+	<iostream>
+
+1767886455 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\proveedormanager.h
+	<string>
+	"Validador.h"
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+
+1767886460 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\ventamanager.h
+	<string>
+	"Fecha.h"
+	"Producto.h"
+	"ProductoArchivo.h"
+	"ProductoManager.h"
+	"Usuario.h"
+	"UsuarioManager.h"
+	"UsuarioArchivo.h"
+	"Cliente.h"
+	"ClienteManager.h"
+	"Venta.h"
+	"VentaArchivo.h"
+	"DetalleVenta.h"
+	"DetalleVenArchivo.h"
+	"Validador.h"
+
+1767886460 source:c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\ventamanager.cpp
+	"VentaManager.h"
+	<iostream>
+
+1763057955 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\productovendido.h
+	<string>
+
+1763057955 c:\users\franc\onedrive\escritorio\proyecto progra\minipuntoventa\tpprogra\vendedortrans.h
+	<string>
+
